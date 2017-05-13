@@ -8,8 +8,18 @@ for [openage](https://github.com/SFTtech/openage).
 Content
 =======
 
-So far, no information is stored in the repo.
-Start writing a guide!
+Styleguide
+----------
+
+Have a look at our [styleguide](doc/assets/styleguide.md) if you want to create assets.
+
+3D modelling
+------------
+
+Tutorial about creating 3D in blender:
+
+* [Introduction](doc/assets/3d_models/0_introduction.md)
+* [Part 1: Setup and rendering](doc/assets/3d_models/1_setup_and_rendering.md)
 
 
 License
